@@ -6,6 +6,10 @@ Sou Isabelle Strojake, uma desenvolvedora fullstack. Atualmente estudando com a 
 Tenho vários repositórios dos projetos que fiz.
 
 Obtive mentorias sobre softskills, aprendendo habilidades sociais, profissionais e pessoais.
+
+## Contato
+strojake@gmail.com
+
 ## 🛠 Habilidades
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
