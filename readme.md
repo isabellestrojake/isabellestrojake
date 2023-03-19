@@ -10,6 +10,7 @@ Obtive mentorias sobre softskills, aprendendo habilidades sociais, profissionais
 ## Contato
 
 https://www.linkedin.com/in/isabellestrojake/
+
 strojake@gmail.com
 
 ## 🛠 Habilidades
