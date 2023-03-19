@@ -8,7 +8,7 @@ Dá uma olhada nesse projeto que tenho orgulho: https://isabellestrojake.github.
 Obtive mentorias sobre softskills, aprendendo habilidades sociais, profissionais e pessoais.
 
 ## Contato
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 strojake@gmail.com
 
 ## 🛠 Habilidades
