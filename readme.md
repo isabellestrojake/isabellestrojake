@@ -1,9 +1,9 @@
 
 # Dev Isabelle
 
-Sou Isabelle Strojake, uma desenvolvedora fullstack. Atualmente estudando com a Trybe, estou no módulo de back-end.
+Sou Isabelle Strojake, uma desenvolvedora. Atualmente estudando com a Trybe, estou no módulo de back-end. Também estou estudando Análise e Desenvolvimento de Sistemas com a Gran Faculdade.
 
-Tenho vários repositórios dos projetos que fiz.
+Dá uma olhada nesse projeto que tenho orgulho: https://isabellestrojake.github.io/pixels-art/
 
 Obtive mentorias sobre softskills, aprendendo habilidades sociais, profissionais e pessoais.
 
