@@ -11,6 +11,11 @@ Tenho experiência em HTML, CSS, JavaScript e Node.js.
 
 ## Projetos
 
+### Gerador de Senhas
+Simples e prático, cria senhas aleatoriamente de acordo com sua necessidade.
+[Link para o repositório do projeto](https://isabellestrojake.github.io/gerador-de-senhas/)
+
+
 ### Pixels Art
 
 Quer desenhar no formato pixels art? Com esse projeto você tem uma board de tamanho personalizável e cores aleatórias para se divertir como quiser!
