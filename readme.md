@@ -1,6 +1,6 @@
 # Desenvolvedora Web
 
-Sou Isabelle Strojake, atualmente estudando programação com a Trybe e também estou estudando Análise e Desenvolvimento de Sistemas com a Gran Faculdade.
+Sou Isabelle Strojake, formada em programação web fullstack com a Trybe e também estou estudando Análise e Desenvolvimento de Sistemas com a Gran Faculdade.
 
 Tenho experiência em HTML, CSS, JavaScript e Node.js.
 
