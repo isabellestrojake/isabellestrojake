@@ -8,8 +8,19 @@ Tenho experiência em HTML, CSS, JavaScript e Node.js.
 
 - HTML - CSS - JavaScript - TypeScript - Python
 - NPM - React - Node.js - MySQL - MongoDB - Docker
+- DataScience - Power BI
 
 ## Projetos
+
+
+### Power BI
+Algumas práticas com dashboards.
+
+[Vendas](https://app.powerbi.com/view?r=eyJrIjoiYzk5MGFmNzItYTUwMi00ZjU2LWEwYjItMDQxY2RkOTZmMmRmIiwidCI6IjVlOTYzNzNkLTQxYWUtNGU4MS1iNjAwLWEyNGExMDI4ZGM1YyJ9)
+
+[SAC](https://app.powerbi.com/view?r=eyJrIjoiZDMwMTc2MGEtYzVmNi00NGNiLTg5OGEtZmVlZDMxNjY2ZjZlIiwidCI6IjVlOTYzNzNkLTQxYWUtNGU4MS1iNjAwLWEyNGExMDI4ZGM1YyJ9)
+
+[Produtos](https://app.powerbi.com/view?r=eyJrIjoiNGE1Y2M4OTktMDk4OS00ZmQxLTg5MTAtNDRlNjJhNmQ0OGNjIiwidCI6IjVlOTYzNzNkLTQxYWUtNGU4MS1iNjAwLWEyNGExMDI4ZGM1YyJ9)
 
 ### Gerador de Senhas
 Simples e prático, cria senhas aleatoriamente de acordo com sua necessidade.
