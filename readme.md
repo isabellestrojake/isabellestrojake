@@ -1,14 +1,14 @@
 # Desenvolvedora Web
 
-Sou Isabelle Strojake, formada em programação web fullstack com a Trybe e também estou estudando Análise e Desenvolvimento de Sistemas com a Gran Faculdade.
+Sou Isabelle Strojake, formada em programação web fullstack com a Trybe e também estou estudando Análise e Desenvolvimento de Sistemas com a Gran Faculdade. Atualmente estudando Análise de Dados pela DNC.
 
-Tenho experiência em HTML, CSS, JavaScript e Node.js.
+Tenho experiência em HTML, CSS, JavaScript, Node.js, Excel e Power BI.
 
 ## 🛠 Habilidades
 
 - HTML - CSS - JavaScript - TypeScript - Python
 - NPM - React - Node.js - MySQL - MongoDB - Docker
-- DataScience - Power BI
+- DataScience - Excel, Power BI
 
 ## Projetos
 
